@@ -22,8 +22,8 @@
   ],
   "env": {
     "MONGODB_URI": "mongodb+srv://RAVAN_09:HzRijK2xxYiseM5R@cluster0.uzafnxb.mongodb.net/?appName=Cluster1",
-    "OWNER_ID": "admin",
-    "OWNER_PASS": "Admin@123",
+    "OWNER_ID": "Jaswant06@",
+    "OWNER_PASS": "Visha",
     "IMGBB_API_KEY": "deed0db8a65f3f0209203cac5c728fff",
     "OPENROUTER_API_KEY": "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",
     "SAMBANOVA_API_KEY": "fad2718f-88ef-4606-ae6d-4eef76bf6eaf"
